@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+  <rect width="1100" height="700" fill="#f6f8fc"/>
+  <rect width="1100" height="150" fill="#3b5bdb"/>
+  <text x="55" y="73" fill="white" font-family="Segoe UI, sans-serif" font-size="36" font-weight="700">TaskFlow</text>
+  <text x="55" y="110" fill="#dbe4ff" font-family="Segoe UI, sans-serif" font-size="18">Keep your day clear, focused, and moving forward.</text>
+  <rect x="55" y="190" width="410" height="48" rx="6" fill="white" stroke="#cbd5e1"/>
+  <text x="75" y="221" fill="#64748b" font-family="Segoe UI, sans-serif" font-size="17">What needs doing?</text>
+  <rect x="485" y="190" width="145" height="48" rx="6" fill="white" stroke="#cbd5e1"/>
+  <text x="505" y="221" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Personal</text>
+  <rect x="650" y="190" width="150" height="48" rx="6" fill="white" stroke="#cbd5e1"/>
+  <text x="670" y="221" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">2026-09-13</text>
+  <rect x="820" y="190" width="145" height="48" rx="6" fill="#3b5bdb"/>
+  <text x="850" y="221" fill="white" font-family="Segoe UI, sans-serif" font-size="17" font-weight="700">Add task</text>
+  <text x="55" y="286" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">◉ All     ○ Active     ○ Completed</text>
+  <text x="825" y="286" fill="#64748b" font-family="Segoe UI, sans-serif" font-size="16">1 of 3 tasks completed</text>
+  <rect x="55" y="315" width="1010" height="232" rx="8" fill="white" stroke="#dbe2ef"/>
+  <rect x="55" y="315" width="1010" height="45" rx="8" fill="#e9efff"/>
+  <text x="86" y="344" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">STATUS</text><text x="215" y="344" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">TASK</text><text x="675" y="344" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">CATEGORY</text><text x="875" y="344" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700">DUE DATE</text>
+  <text x="86" y="404" fill="#15803d" font-family="Segoe UI, sans-serif" font-size="16">Done</text><text x="215" y="404" fill="#64748b" font-family="Segoe UI, sans-serif" font-size="17">Review Python project</text><text x="675" y="404" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Study</text><text x="875" y="404" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">2026-09-13</text>
+  <line x1="55" y1="430" x2="1065" y2="430" stroke="#e2e8f0"/><text x="86" y="473" fill="#2563eb" font-family="Segoe UI, sans-serif" font-size="16">Active</text><text x="215" y="473" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Plan weekly priorities</text><text x="675" y="473" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Work</text><text x="875" y="473" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">2026-09-14</text>
+  <line x1="55" y1="497" x2="1065" y2="497" stroke="#e2e8f0"/><text x="86" y="536" fill="#2563eb" font-family="Segoe UI, sans-serif" font-size="16">Active</text><text x="215" y="536" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Take a walk</text><text x="675" y="536" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">Health</text><text x="875" y="536" fill="#334155" font-family="Segoe UI, sans-serif" font-size="17">2026-09-15</text>
+  <rect x="55" y="590" width="230" height="45" rx="6" fill="white" stroke="#cbd5e1"/><text x="75" y="619" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16">Mark complete / active</text>
+  <rect x="300" y="590" width="150" height="45" rx="6" fill="white" stroke="#cbd5e1"/><text x="325" y="619" fill="#334155" font-family="Segoe UI, sans-serif" font-size="16">Delete selected</text>
+</svg>
